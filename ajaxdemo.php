@@ -5,6 +5,10 @@
 	<title>ajax demo</title>
 </head>
 <body>
-	<h1>这是一个测试页面：<?php echo "Hello World!"?></h1>
+	<h1>这是一个测试页面：
+		<?php
+		echo "Hello World!"
+		?>	
+	</h1>
 </body>
 </html>
